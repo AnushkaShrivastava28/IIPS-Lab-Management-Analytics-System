@@ -1,0 +1,10 @@
+{
+  "name": "iips-labtrack",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "seed": "node scripts/seed.js"
+  }
+}
